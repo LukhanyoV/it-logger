@@ -1,0 +1,35 @@
+{
+  "logs": [
+    {
+      "message": "Network card needs to be replaced at workstation 001",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2020-06-26T14:23:51.939Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "Memory card replaced at workstation 002",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-06-26T14:53:19.792Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "firstName": "Sarah",
+      "lastName": "Wilson",
+      "id": 3
+    }
+  ]
+}
